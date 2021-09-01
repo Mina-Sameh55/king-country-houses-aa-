@@ -7,4 +7,4 @@ The objective of this kernel is to create a **some algorithms** for a given data
 (2) Now we create a base model ABC, create required abstract classes. Create linearmodel class which is sub class of ABC class. Define the required methods. Now we create two classes 
 
 (3) In order to know that the created model is vaild, we create plots to see the predicted line and the points where the required value should be vaild. We know that the model is valid and is useful when it passes the preliminary test, where Score and variance  with various data.
-z
+
